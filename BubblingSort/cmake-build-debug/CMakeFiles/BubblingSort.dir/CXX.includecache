@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/c++/Project/DataStrucure/BubblingSort/InsertionSort.h
+
+G:/c++/Project/DataStrucure/BubblingSort/SelectionSort.h
+
+G:/c++/Project/DataStrucure/BubblingSort/SortTestHelper.h
+iostream
+-
+ctime
+-
+cassert
+-
+
+G:/c++/Project/DataStrucure/BubblingSort/main.cpp
+iostream
+-
+SortTestHelper.h
+G:/c++/Project/DataStrucure/BubblingSort/SortTestHelper.h
+SelectionSort.h
+G:/c++/Project/DataStrucure/BubblingSort/SelectionSort.h
+InsertionSort.h
+G:/c++/Project/DataStrucure/BubblingSort/InsertionSort.h
+

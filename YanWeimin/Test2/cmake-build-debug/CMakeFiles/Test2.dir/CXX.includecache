@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/c++/Project/DataStrucure/YanWeimin/Test2/main.cpp
+iostream
+-
+stack.h
+G:/c++/Project/DataStrucure/YanWeimin/Test2/stack.h
+
+G:/c++/Project/DataStrucure/YanWeimin/Test2/stack.h
+iostream
+-
+string
+-
+sstream
+-
+

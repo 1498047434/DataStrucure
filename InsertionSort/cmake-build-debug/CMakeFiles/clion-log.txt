@@ -1,0 +1,4 @@
+"G:\c++\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" G:\c++\Project\DataStrucure\InsertionSort
+-- Configuring done
+-- Generating done
+-- Build files have been written to: G:/c++/Project/DataStrucure/InsertionSort/cmake-build-debug
