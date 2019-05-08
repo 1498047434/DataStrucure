@@ -11,6 +11,8 @@ iostream
 -
 stack.h
 G:/c++/Project/DataStrucure/YanWeimin/Test2/stack.h
+yanghui.h
+G:/c++/Project/DataStrucure/YanWeimin/Test2/yanghui.h
 
 G:/c++/Project/DataStrucure/YanWeimin/Test2/stack.h
 iostream
@@ -18,5 +20,9 @@ iostream
 string
 -
 sstream
+-
+
+G:/c++/Project/DataStrucure/YanWeimin/Test2/yanghui.h
+iostream
 -
 

@@ -86,6 +86,9 @@
 		<Unit filename="G:/c++/Project/DataStrucure/YanWeimin/Test2/stack.h">
 			<Option target="Test2"/>
 		</Unit>
+		<Unit filename="G:/c++/Project/DataStrucure/YanWeimin/Test2/yanghui.h">
+			<Option target="Test2"/>
+		</Unit>
 		<Unit filename="G:/c++/Project/DataStrucure/YanWeimin/Test2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
