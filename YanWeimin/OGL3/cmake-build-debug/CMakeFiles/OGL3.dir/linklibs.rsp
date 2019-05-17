@@ -1,0 +1,1 @@
+ -LG:/c++/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/x86_64-w64-mingw32/lib -lfreeglut_static -lopengl32 -lwinmm -lgdi32 -lglu32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
