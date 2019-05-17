@@ -11,7 +11,92 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1424d167-122c-4051-a78a-d2c2b1dd52d9" name="Default Changelist" comment="" />
+    <list default="true" id="1424d167-122c-4051-a78a-d2c2b1dd52d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MergeSort/.idea/MergeSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/InsertionSort.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/MergeSort.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/SortTestHelper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MergeSort/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort/.idea/QuickSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort/InsertionSort.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort/MergeSort.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort/MergeSortBU.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort/SortTestHelper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickSort/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/AMgraph.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/AMgraph.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/3.13.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/3.13.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/3.13.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/3.13.4/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Graph/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/OGL3/.idea/OGL3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/OGL3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/OGL3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/OGL3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/OGL3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/OGL3/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/OGL3/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Test2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YanWeimin/Test2/yanghui.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Graph/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Graph/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Graph/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Graph/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/Test2.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/Test2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/Test2.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/Test2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/Test2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YanWeimin/Test2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../YanWeimin/Test2/main.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,14 +112,18 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+            <state relative-caret-position="-180">
+              <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -45,7 +134,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SortTestHelper.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="882">
+            <state relative-caret-position="798">
               <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
             </state>
           </provider>
@@ -54,7 +143,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SelectionSort.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="95">
               <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
               <folding>
                 <element signature="e#133#145#0" expanded="true" />
@@ -66,7 +155,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/InsertionSort.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="152">
               <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="21" />
               <folding>
                 <element signature="e#131#143#0" expanded="true" />
@@ -77,6 +166,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -86,10 +178,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1552" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="747" />
+    <option name="y" value="20" />
+    <option name="width" value="1555" />
     <option name="height" value="880" />
   </component>
   <component name="ProjectView">
@@ -97,7 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,11 +200,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MergeSort" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
@@ -155,27 +248,30 @@
       <workItem from="1556084881229" duration="5873000" />
       <workItem from="1556105452236" duration="596000" />
       <workItem from="1556361432236" duration="617000" />
+      <workItem from="1557797595923" duration="1987000" />
+      <workItem from="1557837373204" duration="1282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7086000" />
+    <option name="totallyTimeSpent" value="10355000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24614395" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25268096" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.51768035" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Messages" order="8" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -200,18 +296,22 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SortTestHelper.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
+        <state relative-caret-position="798">
           <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SelectionSort.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="95">
           <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
           <folding>
             <element signature="e#133#145#0" expanded="true" />
@@ -221,7 +321,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/InsertionSort.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="152">
           <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="21" />
           <folding>
             <element signature="e#131#143#0" expanded="true" />
@@ -231,8 +331,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        <state relative-caret-position="-180">
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

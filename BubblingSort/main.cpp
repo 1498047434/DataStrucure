@@ -75,10 +75,10 @@ int main() {
     SortTestHelper::testSort("bubblingSort2",bubblingSort2,arr5,n);
     SortTestHelper::testSort("bubblingSort3",bubblingSort3,arr6,n);
 
-    int n33 = 10;
-    int *arr33 = SortTestHelper::generateRandomArray(n,0,n);
-    SortTestHelper::printArray(arr33,n33);
-    bubblingSort3(arr33,n33);
-    SortTestHelper::printArray(arr33,n33);
+//    int n33 = 10;
+//    int *arr33 = SortTestHelper::generateRandomArray(n,0,n);
+//    SortTestHelper::printArray(arr33,n33);
+//    bubblingSort3(arr33,n33);
+//    SortTestHelper::printArray(arr33,n33);
 
 }

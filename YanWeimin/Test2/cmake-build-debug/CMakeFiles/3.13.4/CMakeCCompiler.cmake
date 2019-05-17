@@ -1,7 +1,7 @@
-set(CMAKE_C_COMPILER "G:/c++/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/gcc.exe")
+set(CMAKE_C_COMPILER "J:/c++/mingw64/bin/gcc.exe")
 set(CMAKE_C_COMPILER_ARG1 "")
 set(CMAKE_C_COMPILER_ID "GNU")
-set(CMAKE_C_COMPILER_VERSION "7.3.0")
+set(CMAKE_C_COMPILER_VERSION "8.1.0")
 set(CMAKE_C_COMPILER_VERSION_INTERNAL "")
 set(CMAKE_C_COMPILER_WRAPPER "")
 set(CMAKE_C_STANDARD_COMPUTED_DEFAULT "11")
@@ -16,11 +16,11 @@ set(CMAKE_C_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "G:/c++/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/ar.exe")
-set(CMAKE_C_COMPILER_AR "G:/c++/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/gcc-ar.exe")
-set(CMAKE_RANLIB "G:/c++/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/ranlib.exe")
-set(CMAKE_C_COMPILER_RANLIB "G:/c++/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/gcc-ranlib.exe")
-set(CMAKE_LINKER "G:/c++/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/ld.exe")
+set(CMAKE_AR "J:/c++/mingw64/bin/ar.exe")
+set(CMAKE_C_COMPILER_AR "J:/c++/mingw64/bin/gcc-ar.exe")
+set(CMAKE_RANLIB "J:/c++/mingw64/bin/ranlib.exe")
+set(CMAKE_C_COMPILER_RANLIB "J:/c++/mingw64/bin/gcc-ranlib.exe")
+set(CMAKE_LINKER "J:/c++/mingw64/bin/ld.exe")
 set(CMAKE_COMPILER_IS_GNUCC 1)
 set(CMAKE_C_COMPILER_LOADED 1)
 set(CMAKE_C_COMPILER_WORKS TRUE)
@@ -69,5 +69,5 @@ endif()
 
 
 set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "mingw32;gcc;moldname;mingwex;pthread;advapi32;shell32;user32;kernel32;iconv;mingw32;gcc;moldname;mingwex")
-set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "G:/c++/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/7.3.0;G:/c++/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/lib/gcc;G:/c++/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/x86_64-w64-mingw32/lib;G:/c++/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/lib")
+set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "J:/c++/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0;J:/c++/mingw64/lib/gcc;J:/c++/mingw64/x86_64-w64-mingw32/lib;J:/c++/mingw64/lib")
 set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")
