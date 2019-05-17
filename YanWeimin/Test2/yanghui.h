@@ -41,8 +41,7 @@ int yanghuisanjiao()
     int n;
     Queue Q;
     InitQueue(Q);
-    cout<<"è¯·è¾“å…¥éœ€è¦æ‰“å°å¤šå°‘è¡Œæ¨è¾‰ä¸‰è§’:"<<endl;
-    cout<<"sssså¥½";
+    cout<<"ÇëÊäÈëÐèÒª´òÓ¡¶àÉÙÐÐÑî»ÔÈý½Ç:"<<endl;
     cin>>n;
 
     for (int i = 0; i < n; ++i) {

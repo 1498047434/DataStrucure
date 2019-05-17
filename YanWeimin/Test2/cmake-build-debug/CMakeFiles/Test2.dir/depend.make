@@ -3,4 +3,5 @@
 
 CMakeFiles/Test2.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/Test2.dir/main.cpp.obj: ../stack.h
+CMakeFiles/Test2.dir/main.cpp.obj: ../yanghui.h
 
