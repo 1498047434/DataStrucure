@@ -14,44 +14,6 @@
     <list default="true" id="60a938aa-0c10-42f1-951f-d22b47d3419f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../BubblingSort/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/AMgraph.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/AMgraph.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/3.13.4/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/3.13.4/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/3.13.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/3.13.4/CMakeRCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/3.13.4/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdC/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/3.13.4/CompilerIdCXX/a.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OGL2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OGL2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OGL2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OGL2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OGL2/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OGL2/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/OGL3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenGlTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenGlTest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenGlTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenGlTest/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenGlTest/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OpenGlTest/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../BubblingSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BubblingSort/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Test2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test2/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -80,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="204" lean-forward="true" selection-start-line="204" selection-end-line="204" />
+            <state relative-caret-position="277">
+              <caret line="184" column="27" lean-forward="true" selection-start-line="184" selection-start-column="27" selection-end-line="184" selection-end-column="27" />
               <folding>
                 <element signature="e#3907#3927#0" expanded="true" />
               </folding>
@@ -114,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,6 +87,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,22 +137,31 @@
       <workItem from="1557143584079" duration="448000" />
       <workItem from="1557145727509" duration="378000" />
       <workItem from="1557230293536" duration="2204000" />
+      <workItem from="1557316429462" duration="750000" />
     </task>
+    <task id="LOCAL-00001" summary="图的邻接矩阵、openGl环境、实验二">
+      <created>1557316517663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557316517663</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4814000" />
+    <option name="totallyTimeSpent" value="5564000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2596401" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2525707" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32884097" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -210,6 +181,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="图的邻接矩阵、openGl环境、实验二" />
+    <option name="LAST_COMMIT_MESSAGE" value="图的邻接矩阵、openGl环境、实验二" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../../../mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/x86_64-w64-mingw32/include/GL/freeglut_std.h">
       <provider selected="true" editor-type-id="text-editor">
@@ -218,6 +193,10 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/我的动画/main.cpp" />
+    <entry file="file://$PROJECT_DIR$/我的动画/animation.cpp" />
+    <entry file="file://$PROJECT_DIR$/matrix.cpp" />
+    <entry file="file://$PROJECT_DIR$/ikframer.h" />
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -225,33 +204,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/我的动画/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4536">
-          <caret selection-end-line="498" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/我的动画/animation.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matrix.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ikframer.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="65" />
-          <folding>
-            <element signature="e#39#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="204" lean-forward="true" selection-start-line="204" selection-end-line="204" />
+        <state relative-caret-position="277">
+          <caret line="184" column="27" lean-forward="true" selection-start-line="184" selection-start-column="27" selection-end-line="184" selection-end-column="27" />
           <folding>
             <element signature="e#3907#3927#0" expanded="true" />
           </folding>
