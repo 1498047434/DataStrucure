@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+J:/c++/Project/DataStructure/DataStrucure/MergeSort/InsertionSort.h
+
+J:/c++/Project/DataStructure/DataStrucure/MergeSort/MergeSort.h
+
+J:/c++/Project/DataStructure/DataStrucure/MergeSort/SortTestHelper.h
+iostream
+-
+algorithm
+-
+string
+-
+ctime
+-
+cassert
+-
+iomanip
+-
+
+J:/c++/Project/DataStructure/DataStrucure/MergeSort/main.cpp
+iostream
+-
+SortTestHelper.h
+J:/c++/Project/DataStructure/DataStrucure/MergeSort/SortTestHelper.h
+InsertionSort.h
+J:/c++/Project/DataStructure/DataStrucure/MergeSort/InsertionSort.h
+algorithm
+-
+MergeSort.h
+J:/c++/Project/DataStructure/DataStrucure/MergeSort/MergeSort.h
+

@@ -1,0 +1,3 @@
+J:/c++/Project/DataStructure/DataStrucure/QuickSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+J:/c++/Project/DataStructure/DataStrucure/QuickSort/cmake-build-debug/CMakeFiles/QuickSort.dir
+J:/c++/Project/DataStructure/DataStrucure/QuickSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
