@@ -5,6 +5,7 @@
 #include "ReadGraph.h"
 #include "Component.h"
 #include "Path.h"
+#include "ShorttestPath.h"
 int main() {
 
 //     int N = 20;
@@ -63,6 +64,14 @@ int main() {
     SparseGraph g1(6, false);
     ReadGraph<SparseGraph> readGraph1(g1, filename);
     g1.show();
+    cout<<endl;
+
     Path<SparseGraph> path1(g1,0);
+    cout<<"DFS : ";
     path1.showPath(5);
+
+    ShortestPath<SparseGraph> shortestPath1(g1,0);
+    cout<<"BFS : ";
+    shortestPath1.showPath(5);
+   cout<<shortestPath1.length(5);
 }
